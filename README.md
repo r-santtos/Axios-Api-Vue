@@ -32,7 +32,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:8080.
 
 Este projeto foi desenvolvido para aplicação de estudos em tecnologia, é composto por uma tela inicial, outras duas “sobre” e “contato”.
 
-O sistema de roteamento, a aplicação de typescript e consultas externas à API foram a base do estudo.
+O sistema de roteamento, a aplicação de typescript e consultas externas à API e PWA foram a base do estudo.
 
 ## 🔖 Layout
 
