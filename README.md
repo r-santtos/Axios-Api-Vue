@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 - [Axios](https://axios-http.com/)
 - [Vercel](https://vercel.com/)
+- [PWA](https://developers.google.com/web/progressive-web-apps/)
 
 ## 🚀 Como executar
 
@@ -37,7 +38,7 @@ O sistema de roteamento, a aplicação de typescript e consultas externas à API
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
+- [Layout Web](https://vue-dash-youtube.vercel.app/) 
 
 ## 📝 License
 
