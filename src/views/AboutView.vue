@@ -1,5 +1,15 @@
 <template>
-  <div class="about">
+  <main>
     <h1>This is an about page</h1>
-  </div>
+  </main>
 </template>
+
+
+<style>
+  main {
+    background-color: var(--color-background-home);
+    color: aliceblue;
+    text-align: center;
+    padding: 2rem;
+  }
+</style>
