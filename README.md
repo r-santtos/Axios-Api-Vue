@@ -1,29 +1,48 @@
-# vuejs
+## 🧪 Tecnologias
 
-## Project setup
-```
-yarn install
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- [Vue.js](https://vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue.js Router](https://router.vuejs.org/)
+- [Jest](https://jestjs.io/)
+- [Axios](https://axios-http.com/)
+- [Vercel](https://vercel.com/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 🚀 Como executar
 
-### Run your unit tests
-```
-yarn test:unit
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/r-santtos/Axios-Api-Vue
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Iniciar o projeto
+$ yarn serve
+```
+O app estará disponível no seu browser pelo endereço http://localhost:8080.
+
+## 💻 Projeto
+
+Este projeto foi desenvolvido para aplicação de estudos em tecnologia, é composto por uma tela inicial, outras duas “sobre” e “contato”.
+
+O sistema de roteamento, a aplicação de typescript e consultas externas à API foram a base do estudo.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através do link abaixo:
+
+- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito por RSANTTOS 👋🏻 [Linkedin](https://www.linkedin.com/in/rsanttos89/)
